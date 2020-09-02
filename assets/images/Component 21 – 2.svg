@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.113" height="31.113" viewBox="0 0 31.113 31.113">
+  <defs>
+    <style>
+      .cls-2 {
+        fill: #d0d0d0;
+      }
+    </style>
+  </defs>
+  <g id="Component_21_2" data-name="Component 21 – 2" transform="translate(15.556) rotate(45)">
+    <path id="plus" class="cls-2" d="M20.875,11.875h-6.75V5.125a1.125,1.125,0,0,0-2.25,0v6.75H5.125a1.125,1.125,0,0,0,0,2.25h6.75v6.75a1.125,1.125,0,0,0,2.25,0v-6.75h6.75a1.125,1.125,0,0,0,0-2.25Z" transform="translate(-2 -2)"/>
+  </g>
+</svg>

@@ -1,0 +1,39 @@
+$black17 : #171717
+$fa: #FAFAFA
+$orange: #FF613B
+$unactive-orange: #FEC0B0
+$purple: #32125B
+$unactive-grey: #D0D0D0
+$container-size: 1205px
+
+
+@mixin font($fontname, $fontsize, $lineheight)
+    font-family: $fontname
+    font-size: $fontsize
+    line-height: $lineheight
+
+@mixin vertCentering($dir, $just-cont)
+    display: flex
+    justify-content: $just-cont
+    align-items: center
+    flex-direction: $dir
+
+/* fonts */
+
+@font-face
+    font-family: 'Light'
+    src: url('../assets/font/45-Light.ttf')
+
+@font-face
+    font-family: 'Roman'
+    src: url('../assets/font/55-Roman.ttf')
+
+
+@font-face
+    font-family: 'Bold75'
+    src: url('../assets/font/75-Bold.ttf')
+
+
+@font-face
+    font-family: 'Regular'
+    src: url('../assets/font/bpg-le-studio-04-caps-webfont.ttf')
